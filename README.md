@@ -7,8 +7,7 @@ As part of your project you will run SQL queries and build visualizations to sho
 
 The project is a presentation, for the presentation component, you will create four slides. Each slide will:
 
-Have a question 
-Have a supporting SQL query needed to answer the question.
+SQL query needed to answer the question.
 Have a supporting visualization created using the final data of your SQL query that answers the question.
 
 
